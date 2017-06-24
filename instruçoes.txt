@@ -1,0 +1,26 @@
+Desenvolvido por: Vinicius Vieira e Sidnei Carraro
+
+Inputs: 
+U -> aumenta "altura" do terreno
+I -> diminui "altura" do terreno
+
+ESC -> Fecha
+
+A -> rotaciona o objeto para a esquerda
+S -> rotaciona o objeto para baixo
+D -> rotaciona o objeto para a direita
+W -> rotaciona o objeto para a cima
+
+SPACE -> reseta as posições do terreno
+
+ARROW_UP -> move camera para frente
+ARROW_DOWN -> move camera para tras
+ARROW_LEFT -> move camera para a esquerda
+ARROW_RIGHT -> move camera para a direita
+
+N -> normals = !normals
+
+G -> mostra grids
+F -> mostra faces
+
+digitar a largura e altura do terreno no console
